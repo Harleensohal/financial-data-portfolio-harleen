@@ -1,0 +1,6 @@
+ticker,name,sector,price,dividend,yield,payout
+PEP,PepsiCo,Consumer Discretionary,143.24,5.69,3.9723540910360233,0.7971
+JNJ,Johnson & Johnson,Healthcare,163.7,5.2,3.176542455711668,0.5517
+KO,Coca-Cola,Consumer Staples,69.85,2.04,2.920544022906228,0.7892
+EMR,Emerson Electric,Industrials,144.23,2.11,1.462941135686057,0.6084
+AAPL,Apple Inc.,Technology,211.18,1.04,0.49247087792404587,0.1558
